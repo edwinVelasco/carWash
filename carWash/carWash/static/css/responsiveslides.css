@@ -97,7 +97,11 @@
   text-decoration: none;
   height: 32px;
   width: 38px;
+<<<<<<< HEAD
   background: url("{{STATIC_URL}}images/arrow-nav.png") no-repeat left center;
+=======
+  background: url("../images/arrow-nav.png") no-repeat left center;
+>>>>>>> e912dc8eacc59c842d552a57e73aa85ac3fd1dfd
   }
 
 .callbacks_nav:hover,.callbacks_nav:active {
